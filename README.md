@@ -24,3 +24,4 @@ Change the device configuration and I2C function to I2C1/2 if a different PIC18 
 
 ## Pictures
 <img src="https://github.com/IsaacHo072/PIC18F-Tetris/blob/main/Pictures/With%20Enclosure.jpg" height="500" />
+<img src="https://github.com/IsaacHo072/PIC18F-Tetris/blob/main/Pictures/With%20Enclosure%202.jpg" height="500" />
