@@ -22,4 +22,4 @@ Also for holding one Tetris piece in top-left corner.
 The program could be compiled with the legacy MPLAB C18 C Complier. 
 
 ## Pictures
-![pcb-in-enclosure](https://github.com/Hyphen-and-Hyphens/PIC18F-Tetris/blob/main/Pictures/With%20Enclosure.jpg =250x)
+<img src="https://github.com/Hyphen-and-Hyphens/PIC18F-Tetris/blob/main/Pictures/With%20Enclosure.jpg" height="200" />
