@@ -7,7 +7,7 @@ Tetris game which runs on a PIC18
 - 8x8 Bi-Colour Common-Cathode LED Matrix
 - 13mm Seven Segment Display, Common-Cathode
 - 74HC14
-- Some cherrymx compatible switches
+- Some cherry-mx compatible switches
 
 ## Program
 - Buttons polling used to read the buttons
