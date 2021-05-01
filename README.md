@@ -16,7 +16,7 @@ Tetris game which runs on a PIC18
 
 ## Tetris
 Has basic Tetris features including moving left, right, down and rotating the piece.
-Also for holding one Tetris piece in top-left corner.
+Also for holding one Tetris piece in top-left corner. Top-right corner shows the next piece to be dropped.
 
 ## Compiling
 The program could be compiled with the legacy MPLAB C18 C Complier. 
