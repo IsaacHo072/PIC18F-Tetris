@@ -10,7 +10,7 @@ Tetris game which runs on a PIC18
 - Some cherry-mx compatible switches
 
 ## Program
-- Buttons polling used to read the buttons
+- Button polling used to read the buttons
 - simpletetris.c is the main game program, also directly write to the displays
 - Device configuration code in devcon.h
 
